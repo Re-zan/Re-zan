@@ -7,7 +7,7 @@ I am Zannatul Ferdous, a passionate MERN stack developer from Chattogram, Bangla
 
 - 🌱 I’m currently learning Next.js and Redux 
 - 📫 How to reach me: My portfolio, LinkedIn and GitHub 
-- ⚡ Fun fact: I love to explore new items.  
+- ⚡ Fun fact: I love to watch movie and drama.  
 
 
 
